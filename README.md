@@ -2,8 +2,6 @@
 
 A high-performance, visually striking portfolio website built with **React 18**, **TypeScript**, and **Vite**. This project features a unique "Cyber-Brutalist" aesthetic with high-contrast interfaces, fluid Framer Motion animations, and a neon-green accent system.
 
-![Portfolio Preview](./src/assets/image.png)
-
 ## ✨ Key Features
 
 - **🎯 Brutalist Design** - Bold typography, high contrast, and raw layout structures.
